@@ -1,9 +1,6 @@
-# Heyho :wave:
-
-Hello there, my name is Patrick and I'm a german Java developer with experience in backend and Minecraft development. Besides my love for programming, I have a particular interest in photography, as well as worldbuilding and the creation of immersive worlds with complex background lore, quests and items. I am currently working on a space mmorgp called [Astraleth](https://vollandt.dev/astraleth/astraleth/), set in the near future, where the player gets to explore and colonize the galaxy for the human race.
 **Also, cats are the superior pets!** 
 
-You can find me on my [Website](https://vollandt.dev), on [Discord](https://discordapp.com/users/1149055385848782878), or contact me via [Email](mailto:patrick@vollandt.dev).
+You can find me on [Discord](https://discordapp.com/users/1149055385848782878), or contact me via [Email](mailto:me@amraleth.dev).
 
 
 ### Things I have worked with
