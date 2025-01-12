@@ -1,4 +1,4 @@
-**Also, cats are the superior pets!** 
+I do stuff with computers. Also, **Cats are the superior pets!** 
 
 You can find me on [Discord](https://discordapp.com/users/1149055385848782878), or contact me via [Email](mailto:me@amraleth.dev).
 
